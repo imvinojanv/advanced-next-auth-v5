@@ -1,0 +1,4 @@
+### Setups
+-   Installed the Node LTS
+-   Install the latest next app
+-   Init shadcn ui into the project
